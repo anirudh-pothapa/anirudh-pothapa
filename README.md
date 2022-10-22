@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anirudh-pothapa.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Game development, DataScience.
+- 💞️ I’m looking to collaborate on Game development, DataScience, Web Development.
 - 📫 How to reach me pothapaanirudh8@gmail.com
 
 <!---
