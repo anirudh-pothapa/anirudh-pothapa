@@ -1,4 +1,4 @@
-[![MasterHead](https://pfps.gg/assets/banners/7231-cyberpunk-city.gif)]
+![MasterHead](https://cdnb.artstation.com/p/assets/images/images/031/007/699/large/clara-rios-twitch-ben-1200x480.jpg?1602302609)
 <h1 align="center">Hi 👋, I'm Anirudh Pothapa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-pothapa&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-pothapa" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg3OGQ4YjY2YTE1OTI2NzNkNTFmMDM4ODYyOTIzNmQxYzEyYmNiYiZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
