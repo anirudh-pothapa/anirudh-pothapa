@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg3OGQ4YjY2YTE1OTI2NzNkNTFmMDM4ODYyOTIzNmQxYzEyYmNiYiZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning Projects**
 
 - 🌱 I’m currently learning **JAVA**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m looking to collaborate on **Data Science, Machine Learning**
 
 - 📫 How to reach me **anirudhpothapa1729@gmail.com**
 
