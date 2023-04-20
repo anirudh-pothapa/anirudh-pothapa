@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning**
+- 👯 I’m looking to collaborate on **Data Science, JAVA **
 
 - 📫 How to reach me **anirudhpothapa1729@gmail.com**
 
