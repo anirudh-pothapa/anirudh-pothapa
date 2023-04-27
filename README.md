@@ -24,6 +24,7 @@
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudh-pothapa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anirudh-pothapa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudh-pothapa&show_icons=true&locale=en&theme=tokyonight" alt="anirudh-pothapa" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh-pothapa&&theme=tokyonight" alt="anirudh-pothapa" /></p>
