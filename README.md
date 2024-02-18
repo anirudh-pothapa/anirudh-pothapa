@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science, JAVA **
 
-- 📫 How to reach me **anirudhpothapa1729@gmail.com**
+- 📫 How to reach me **pothapaanirudh8@gmail.com**
 
 - ⚡ Fun fact **I Have A Clean Heart**
 
